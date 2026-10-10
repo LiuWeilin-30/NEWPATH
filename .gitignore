@@ -1,5 +1,14 @@
-# Object file
-*.o
+# Python sources are not part of this distribution
+*.py
+*.pyc
+*.pyo
+__pycache__/
 
-# Ada Library Information
-*.ali
+# Local/editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.tmp
+*.bak
